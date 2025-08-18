@@ -1,2 +1,2 @@
 # HTML
-Exercose from HTML class
+Exercise from HTML class
