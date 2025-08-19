@@ -1,2 +1,2 @@
 # HTML
-Exercise from HTML class
+Some works from Web design class.
